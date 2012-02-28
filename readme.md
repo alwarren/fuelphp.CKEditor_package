@@ -1,12 +1,13 @@
+
 <h3>Package CKEditor</h3>
 
 A fuelPHP drop-in package for CKEditor.
 
 **Installation**:
 
- 1. Download CKEditor [url=http://ckeditor.com/download]here[/url]
+ 1. Download CKEditor [here](http://ckeditor.com/download).
  2. Copy the ckeditor folder from the download archive into your public javascript folder.
- 3. Download the FuelPHP CKEditor package [url=https://github.com/alwarren/fuelphp.CKEditor_package/zipball/master]here[/url].
+ 3. Download the FuelPHP CKEditor package [here](https://github.com/alwarren/fuelphp.CKEditor_package/zipball/master).
  3. Drop the CKEDitor fuel package into fuel/packages.
  4. Open up fuel/packages/ckeditor/config/config.php in your favorite editor.
  5. Set the basepath option to the web path to your CKEditor javascript. The default path is (public)/assets/js/ckeditor.
